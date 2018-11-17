@@ -6,14 +6,14 @@
   </div>
 </template>
 ​
-<style scoped>
+<style lang="scss" scoped>
+.dark {
+  background-color: #000000;
+  color: #fff;
+}
 header,
 footer {
   width: 100%;
   text-align: center;
-}
-​ .dark {
-  background-color: #000;
-  color: #fff;
 }
 </style>
